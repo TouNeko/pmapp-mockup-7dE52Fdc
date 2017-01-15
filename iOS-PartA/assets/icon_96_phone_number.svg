@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_96_phone_number</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-A2~A3---iOS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A5-FB-&amp;-LINE-註冊---手機驗證" transform="translate(-140.000000, -100.000000)">
+            <g id="Group-5" transform="translate(140.000000, 100.000000)">
+                <rect id="Rectangle-8" x="0" y="0" width="96" height="96"></rect>
+                <path d="M67.6363636,13 L28.3636364,13 C25.9636364,13 24,14.96875 24,17.375 L24,78.625 C24,81.03125 25.9636364,83 28.3636364,83 L67.6363636,83 C70.0363636,83 72,81.03125 72,78.625 L72,17.375 C72,14.96875 70.0363636,13 67.6363636,13 Z M48,79.84125 C46.1258182,79.84125 44.6050909,78.3165625 44.6050909,76.4375 C44.6050909,74.5584375 46.1258182,73.03375 48,73.03375 C49.8741818,73.03375 51.3949091,74.5584375 51.3949091,76.4375 C51.3949091,78.3165625 49.8741818,79.84125 48,79.84125 Z M67.6363636,69.875 L28.3636364,69.875 L28.3636364,21.75 L67.6363636,21.75 L67.6363636,69.875 Z" id="Shape" fill="#B0B3B2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_96_phone_auth</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-A2~A3---iOS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A2.2-手機驗證" transform="translate(-140.000000, -100.000000)">
+            <g id="Group-5" transform="translate(140.000000, 100.000000)">
+                <rect id="Rectangle-8" x="0" y="0" width="96" height="96"></rect>
+                <g id="Group-3" transform="translate(24.000000, 13.000000)" fill="#B0B3B2">
+                    <path d="M43.6363636,0 L4.36363636,0 C1.96363636,0 0,1.96875 0,4.375 L0,65.625 C0,68.03125 1.96363636,70 4.36363636,70 L43.6363636,70 C46.0363636,70 48,68.03125 48,65.625 L48,4.375 C48,1.96875 46.0363636,0 43.6363636,0 Z M24,66.84125 C22.1258182,66.84125 20.6050909,65.3165625 20.6050909,63.4375 C20.6050909,61.5584375 22.1258182,60.03375 24,60.03375 C25.8741818,60.03375 27.3949091,61.5584375 27.3949091,63.4375 C27.3949091,65.3165625 25.8741818,66.84125 24,66.84125 Z M43.6363636,56.875 L4.36363636,56.875 L4.36363636,8.75 L43.6363636,8.75 L43.6363636,56.875 Z" id="Shape"></path>
+                    <circle id="Oval-2" cx="12" cy="32" r="3"></circle>
+                    <circle id="Oval-2" cx="20" cy="32" r="3"></circle>
+                    <circle id="Oval-2" cx="28" cy="32" r="3"></circle>
+                    <circle id="Oval-2" cx="36" cy="32" r="3"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
