@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_64_member_bonus</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-B---iOS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="B0-會員專區" transform="translate(-16.000000, -324.000000)">
+            <g id="Group-2" transform="translate(0.000000, 318.000000)">
+                <g id="Group-8" transform="translate(16.000000, 6.000000)">
+                    <rect id="Rectangle-2" x="0" y="0" width="64" height="64"></rect>
+                    <g id="Group-5" transform="translate(11.000000, 12.000000)">
+                        <path d="M8.45950819,17.2612634 C3.58123632,18.6160372 0,23.0992755 0,28.4210526 C0,34.8159287 5.17111114,40 11.55,40 C16.2320467,40 20.263412,37.2071193 22.0768658,33.1925158 C14.692151,31.4193002 9.09156326,25.0447539 8.4595082,17.2612634 Z" id="Combined-Shape" fill="#DF643E"></path>
+                        <ellipse id="Oval" fill="#DF643E" cx="26.25" cy="15.7894737" rx="15.75" ry="15.7894737"></ellipse>
+                        <text id="P" font-family="DINRoundPro-Bold, DIN Round Pro" font-size="18.9" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="21" y="23.1578947">P</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
